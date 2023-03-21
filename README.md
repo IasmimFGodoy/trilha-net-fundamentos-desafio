@@ -35,4 +35,13 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+O código estava pela metade, faltava implementar funcionalidades dentro de todos os seus métodos.
+
+### Método AdicionarVeiculo()
+Trecho de código que adiciona um veículo no estacionamento, incrementando um elemento na lista de veículos.
+
+### Método ListarVeiculos()
+Trecho de código que lista os veículos que estão estacionados, implementei um foreach que percorre a lista e a exibe no terminal.
+
+### Método RemoverVeiculo()
+Trecho de código que tem a função de remover um veículo do estacionamento.
